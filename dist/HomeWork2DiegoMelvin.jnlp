@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="HomeWork2DiegoMelvin.jnlp">
+  <information>
+    <title>HomeWork2DiegoMelvin</title>
+    <vendor>Melvin</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="HomeWork2DiegoMelvin.jar" size="18814" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="HomeWork2DiegoMelvin" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="Main.Tarea2MelvinAstorga_DiegoVega"  name="HomeWork2DiegoMelvin" />
+  <update check="always"/>
+</jnlp>
